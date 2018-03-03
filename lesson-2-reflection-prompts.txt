@@ -28,3 +28,5 @@ and merger them when the logical changes has been done
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+pros: it can save a lot of work
+cons: you can not know all the time which version to save
