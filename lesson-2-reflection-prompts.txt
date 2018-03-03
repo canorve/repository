@@ -21,6 +21,10 @@ all the project as a whole
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+you can test two version of the code to try different features
+and merger them when the logical changes has been done
+
+
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
