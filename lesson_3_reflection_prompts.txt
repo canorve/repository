@@ -11,7 +11,8 @@ share with the world :)
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+   fork is clone but in github plataform. Branch create a different path
+to create other code besides the master.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
