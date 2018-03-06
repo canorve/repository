@@ -17,12 +17,12 @@ to create other code besides the master.
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-   you can verify changes and conflicts 
+   you can verify changes and conflicts
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    It will be easy for small projects without git/github, but it will be hard for large projects
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
